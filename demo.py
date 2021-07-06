@@ -1,8 +1,1 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
-
-This is a temporary script file.
-"""
-
-print("HelloWorld 2")
+print("HelloWorld 3")
